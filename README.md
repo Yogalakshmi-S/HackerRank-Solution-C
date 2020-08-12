@@ -1,3 +1,4 @@
-Solutions to some problems on Hackerrank.
+Solutions to Hackerrank problems.
+
 Language:
-C
+-> C
