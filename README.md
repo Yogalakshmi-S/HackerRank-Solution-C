@@ -1,4 +1,4 @@
 Solutions to Hackerrank problems.
 
-Language:
+Language
 -> C
